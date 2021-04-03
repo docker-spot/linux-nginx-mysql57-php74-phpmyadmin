@@ -32,7 +32,7 @@ After installation below are the ports for the usage of the container,
 
 It is bound on port number 80. Please take a note if the port is already in use then change the port number.
 
-### MySQL
+### MySQL 5.7
 
 MySql is bound on the same default port. Please take a note if MySQL is running on the host machine then either you should stop MySQL in the host machine or change the port in the `docker-compose.yml` file.
 
